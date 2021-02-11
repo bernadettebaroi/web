@@ -1,0 +1,39 @@
+/*
+  Bernadette Baroi
+  IntroCS pd05 sec08
+  HW05 -- Stuylin'
+  2021-02-11
+*/
+
+body {
+  font-size: large;
+}
+
+body {
+  font-style: oblique;
+}
+
+h1 {
+    color: lightpink
+}
+
+h2 {
+    color: dimgrey
+}
+
+h3 {
+    color: skyblue
+}
+    
+p {
+  color: darkred;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+body {border-style: groove;
+}
+
+
